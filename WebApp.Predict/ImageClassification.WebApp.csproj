@@ -40,6 +40,9 @@
     <None Update="ML\DataModels\imageClassifier.zip">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="ML\imageClassifier.zip">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="TestImages\BlackRose.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
